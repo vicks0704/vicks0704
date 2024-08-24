@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## My name is Victor Anya
-I'm a web/mobile games developer at Digital Dreams LTD.
+I'm a web/mobile games developer at Digital Dreams LTD and the founder of Ancillary, an AGI startup.
 <!--
 **vicks0704/vicks0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
